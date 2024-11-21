@@ -171,8 +171,8 @@ Project Link: [https://github.com/chrille0313/ChungIndustries](https://github.co
 
 [contributors-shield]: https://img.shields.io/github/contributors/chrille0313/ChungIndustries.svg?style=for-the-badge
 [contributors-url]: https://github.com/chrille0313/ChungIndustries/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
+[forks-shield]: https://img.shields.io/github/forks/chrille0313/ChungIndustries.svg?style=for-the-badge
+[forks-url]: https://github.com/chrille0313/ChungIndustries/network/members
 [forks-shield]: https://img.shields.io/github/forks/chrille0313/ChungIndustries.svg?style=for-the-badge
 [forks-url]: https://github.com/chrille0313/ChungIndustries/network/members
 [stars-shield]: https://img.shields.io/github/stars/chrille0313/ChungIndustries.svg?style=for-the-badge
