@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/chrille0313/ChungIndustries">
-    <img src="images/logo.png" alt="Logo" width="250" height="250">
+    <img src="images/logo.png" alt="Logo" width="500" height="500">
   </a>
 
 <h3 align="center">ChungIndustries</h3>
@@ -58,7 +58,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -69,15 +68,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
-
-- [![Next][Next.js]][Next-url]
-- [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +172,3 @@ Project Link: [https://github.com/chrille0313/ChungIndustries](https://github.co
 [license-shield]: https://img.shields.io/github/license/chrille0313/ChungIndustries.svg?style=for-the-badge
 [license-url]: https://github.com/chrille0313/ChungIndustries/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
