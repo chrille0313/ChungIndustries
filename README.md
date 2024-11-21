@@ -21,13 +21,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/chrille0313/ChungIndustries">
-    <img src="images/logo.png" alt="Logo" width="500" height="500">
+    <img src="images/logo.png" alt="Logo" width="300">
   </a>
 
-<h3 align="center">ChungIndustries</h3>
-
   <p align="center">
-    project_description
+    Recreating the internet in Minecract.
     <br />
     <a href="https://github.com/chrille0313/ChungIndustries"><strong>Explore the docs »</strong></a>
     <br />
